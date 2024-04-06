@@ -52,7 +52,7 @@ export const house = {
                         title: 'About Me',
                         textLines: [
                             "My name is Andrew and I'm currently a Data Science Student.",
-                            "I've been working for Farfech since September 2017 developing components and features for the website but since 2020 I moved to a more techincal team that develops tools to maximize the performance of the website and improves our developers experience",
+                            "I've been working for UCR since September 2017 developing components and features for the website but since 2020 I moved to a more techincal team that develops tools to maximize the performance of the website and improves our developers experience",
                         ] 
                     },
                     {

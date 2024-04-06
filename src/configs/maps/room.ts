@@ -75,7 +75,7 @@ export const room = {
                 {
                     events: [{
                         type:'message',
-                        text: '1st Place in Porto Summer of Code 2017',
+                        text: '1st Place in SD Summer of Code 2017',
                     }]
                 }
             ],

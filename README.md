@@ -1,4 +1,4 @@
-# Retro Portfolio [https://vascofbribeiro.netlify.app/](https://vascofbribeiro.netlify.app/)
+# Retro Portfolio [https://andrew12332c.github.io/lotto/](https://andrew12332c.github.io/lotto/)
 
 This project is a pixel art gamified Portfolio
 
